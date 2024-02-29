@@ -1,0 +1,44 @@
+G04 Layer: BottomSilkscreenLayer*
+G04 EasyEDA v6.5.25, 2023-03-20 21:11:36*
+**********************************至少这一行要换成自己的************************************
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters  *
+G04 leading zeros omitted , absolute positions ,3 integer and 6 decimal *
+M48
+; DRILL file {KiCad 7.0.7} date Sat Feb  3 15:44:31 2024
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2024-02-03T15:44:31+08:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.7
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+INCH
+; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
+T1C0.1181
+; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
+T2C0.1570
+%
+G90
+G05
+T1
+X2.4927Y-2.0682
+X2.7215Y-1.9263
+X2.7509Y-2.9356
+X2.8089Y-3.7956
+X2.9798Y-2.7937
+X3.0378Y-3.6537
+X3.3038Y-1.9686
+X3.5538Y-1.8686
+X3.562Y-2.836
+X3.812Y-2.736
+X4.1951Y-2.0491
+X4.463Y-2.0219
+T2
+X2.6578Y-2.1406
+X2.916Y-3.008
+X2.974Y-3.868
+X3.4538Y-2.0686
+X3.712Y-2.936
+X4.3118Y-2.1866
+T0
+M30

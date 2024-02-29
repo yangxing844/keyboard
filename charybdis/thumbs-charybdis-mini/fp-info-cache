@@ -1,0 +1,309 @@
+74865573758376
+SofleChoc
+1pin_conn
+Resitance 3 pas
+R
+0
+1
+1
+SofleChoc
+3x1header
+
+
+0
+3
+3
+SofleChoc
+Choc_Hotswap_Backup
+
+
+0
+4
+2
+SofleChoc
+Choc_Hotswap_SK6812MiniE
+
+
+0
+12
+6
+SofleChoc
+Choc_Hotswap_SK6812MiniE_BiggerHSPads
+
+
+0
+12
+6
+SofleChoc
+Choc_Hotswap_SK6812MiniE_BiggerHSPads_Column1
+
+
+0
+12
+6
+SofleChoc
+HOLE_M2_TH
+
+
+0
+1
+0
+SofleChoc
+JST_PH_S2B-PH-K_1x02_P2.00mm_DoubleSided
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+4
+2
+SofleChoc
+Jumper
+
+
+0
+2
+2
+SofleChoc
+Jumper_small
+
+
+0
+2
+2
+SofleChoc
+Kailh-PG1350-1u-reversible-SK6812MiniE
+
+
+0
+11
+4
+SofleChoc
+Kailh-PG1350-1u-reversible-SK6812MiniE_MODIFIED
+
+
+0
+11
+6
+SofleChoc
+Kailh-PG1350-1u-reversible-noLED
+
+
+0
+3
+2
+SofleChoc
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+12
+4
+SofleChoc
+Kailh_socket_PG1350_reversible_backup
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+SofleChoc
+LED
+
+
+0
+3
+3
+SofleChoc
+M2_HOLE_PCB
+
+
+0
+1
+0
+SofleChoc
+MJ-4PP-9
+
+
+0
+8
+4
+SofleChoc
+NiceView
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+SofleChoc
+OLED_4Pin
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+SofleChoc
+OLED_NICEVIEW_COMBO_HDR_5Pin
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+SofleChoc
+ProMicro
+
+
+0
+48
+24
+SofleChoc
+RESISTOR_mini
+Resitance 3 pas
+R
+0
+2
+2
+SofleChoc
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+SofleChoc
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified_2
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+SofleChoc
+SK6812MINI_and_cherry
+
+
+0
+12
+6
+SofleChoc
+SK6812MINI_underglow_dev
+
+
+0
+8
+4
+SofleChoc
+SW_Hole_Choc_Encoder_Combined
+
+
+0
+0
+0
+SofleChoc
+TACT_SWITCH_TVBP06
+
+
+0
+2
+2
+SofleChoc
+batt+_pad
+
+
+0
+1
+1
+SofleChoc
+batt-_pad
+
+
+0
+1
+1
+SofleChoc
+crkbd-diode
+Resitance 3 pas
+R
+0
+4
+2
+SofleChoc
+gecko-logo
+
+
+0
+0
+0
+SofleChoc
+jumper_data
+
+
+0
+2
+2
+SofleChoc
+switch_spdt_rightangle
+
+
+0
+3
+3
+custom
+Diode_TH_SOD123
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
+2
+custom
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+customs
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+customs
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+customs
+SOT23-R
+<b>SOT23</b> - Reflow soldering
+
+0
+3
+3
+customs
+SolderWire-0.15sqmm_1x01_D0.5mm_OD1.5mm
+Soldered wire connection, for a single 0.15 mm² wire, basic insulation, conductor diameter 0.5mm, outer diameter 1.5mm, size source Multi-Contact FLEXI-E 0.15 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.15sqmm
+0
+1
+1
+customs
+TSOT-23_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23 Hand-soldering
+0
+6
+3
+customs
+ffc molex 12 pins
+Molex Pico-Clasp series connector, 202396-1207 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-Clasp top entry
+0
+14
+13
